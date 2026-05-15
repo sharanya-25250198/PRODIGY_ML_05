@@ -21,3 +21,15 @@ This project detects food items from images using Deep Learning and estimates ca
 
 ```bash
 python food_recognition.py
+```
+
+## Sample Foods Tested
+- Pizza
+- Burger
+- Banana
+- Sandwich
+- Panipuri
+- Kabab
+
+## Author
+Sharanya K
